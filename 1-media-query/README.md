@@ -11,7 +11,7 @@ Continuing from the Challenge 2 from Lesson 4
   
   @media screen and (min-width: 400px){ 
     p {
-      font-size: 20px;
+      font-size: 40px;
     } 
     .box {
       text-align: left; background-color:#eee; border-color: white;
